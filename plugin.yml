@@ -1,0 +1,8 @@
+name: NanoLimits
+version: 0.1
+main: angelok.NanoLimits.com.Main
+depend: [WorldGuard, WorldEdit]
+commands:
+  nanolimits:
+    description: Manage nanolimits plugin
+    aliases: [limits, nlimits]
